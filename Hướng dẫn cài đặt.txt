@@ -1,0 +1,3 @@
+HƯỚNG DẪN CÀI ĐĂT
+
+- Lưu file Data vào thư mục ổ C của máy để khởi chạy cơ sở dữ liệu
